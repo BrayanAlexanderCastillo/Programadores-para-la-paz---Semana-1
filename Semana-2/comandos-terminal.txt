@@ -1,0 +1,1 @@
+pwd\nls\nmkdir semana2\ncd semana2\ntouch preguntas-semana2.txt\ntouch comandos-terminal.txt\ntouch reflexion-semana2.txt
