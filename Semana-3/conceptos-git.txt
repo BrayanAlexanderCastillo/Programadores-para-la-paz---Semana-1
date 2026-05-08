@@ -1,0 +1,8 @@
+1. Repositorio (Repository)
+Es el espacio o 'contenedor' digital donde se almacena todo el proyecto, incluyendo los archivos de código, las carpetas y, lo más importante, el historial completo de cambios. Un repositorio puede ser local (si está solo en tu computadora) o remoto (si está en la nube, como en GitHub), y sirve como la fuente única de verdad para todos los involucrados en el desarrollo.
+
+2. Commit
+Un commit es una captura o 'fotografía' del estado de tus archivos en un momento específico. Cuando haces un commit, guardas los cambios que has realizado en el repositorio local junto con un mensaje que explica qué se modificó; esto permite que el historial sea una línea de tiempo clara donde puedes ver la evolución del software paso a paso.
+
+3. Push
+Es la acción de enviar tus commits desde tu repositorio local hacia un repositorio remoto en un servidor. El push es el puente que permite que tus cambios estén disponibles para el resto del equipo, asegurando que la versión compartida del proyecto esté actualizada con tus últimas contribuciones y mejoras.
