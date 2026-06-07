@@ -1,0 +1,8 @@
+1. http://localhost:3000
+   Descripción: Accede a la ruta raíz (/) de la aplicación. Por lo general, muestra la página de inicio o un mensaje de bienvenida principal del servidor.
+
+2. http://localhost:3000/saludo
+   Descripción: Accede a una ruta estática específica (/saludo). El servidor responde con un saludo general programado para todos los usuarios.
+
+3. http://localhost:3000/mensaje/juan
+   Descripción: Accede a una ruta dinámica que recibe un parámetro (/mensaje/:usuario). El servidor lee el nombre juan de la URL y responde con un mensaje personalizado para él.
