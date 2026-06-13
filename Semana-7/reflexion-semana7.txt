@@ -1,0 +1,12 @@
+¿Por qué es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica?
+1.Transparencia y Control Social (Evita que las quejas se pierdan)
+Cuando los reportes son públicos y consultables, se elimina el secretismo. Toda la comunidad puede ver qué se ha reportado, cuándo se hizo y qué respuesta ha dado la entidad encargada. Esto evita el típico buzón de quejas tradicional donde los reportes caen en un agujero negro y nadie sabe si se están gestionando o si fueron archivados.
+2. Evita la Duplicidad de Esfuerzos
+Si hay un daño en una vía principal o una luminaria pública apagada en el barrio, no es necesario que 50 vecinos gasten tiempo haciendo el mismo reporte de forma individual. Al poder consultar la plataforma, cualquier ciudadano puede ver que la incidencia ya fue registrada, conocer su estado actual e incluso sumarse o darle prioridad al reporte existente para presionar por su solución.
+3. Evidencia Colectiva para la Gestión del Riesgo
+Tener un histórico consultable permite a la comunidad identificar patrones y pasar de la reacción a la prevención.
+Ejemplo: Si los vecinos consultan la plataforma y ven que en los últimos seis meses se han registrado 15 reportes por inundaciones en la misma esquina, tienen un argumento técnico y documentado para exigirle a las autoridades una intervención estructural en el alcantarillado, y no un simple arreglo cosmético.
+4. Fortalece la Identidad y la Memoria Comunitaria
+Una plataforma con estas características se convierte en una bitácora del territorio. Le permite a los líderes comunitarios, veedurías y habitantes nuevos conocer el histórico de gestión de su zona: qué problemas se han solucionado, cuáles siguen pendientes y cómo ha evolucionado la infraestructura de su entorno a lo largo del tiempo.
+5. Democratiza el Acceso a la Información
+Ya no se depende de que un líder político o un funcionario público quiera compartir la información de lo que pasa en el sector. Cualquier ciudadano, desde su teléfono o computadora, puede auditar la gestión de su territorio, lo que equilibra la balanza de poder y fomenta una ciudadanía más informada y activa.
