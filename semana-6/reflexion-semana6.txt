@@ -1,0 +1,8 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
+Atención inmediata (Automatización): Al usar campos fijos (como menús desplegables), el sistema clasifica y redirige el reporte automáticamente a la dependencia correcta sin que un humano tenga que leer y adivinar de qué se trata.
+
+Datos precisos, no rumores: Evita la ambigüedad del texto libre. El sistema obliga a registrar datos exactos como la dirección exacta, la comuna, la foto o las coordenadas GPS.
+
+Fácil de medir y priorizar: Permite crear mapas de calor y estadísticas en tiempo real para ver cuáles son las zonas con más problemas y atender primero las emergencias más graves.
+
+El sistema no colapsa (Escalabilidad): Leer miles de correos narrativos es imposible para cualquier equipo. Un sistema estructurado puede procesar miles de reportes a la vez de forma eficiente.
