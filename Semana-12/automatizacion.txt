@@ -1,0 +1,16 @@
+Automatización del Sistema: Petición en 3 Clics
+Herramienta: n8n + Bot de Telegram.
+
+Evento que activa la automatización: Una causa registrada alcanza la meta mínima de apoyos (ej. 50 firmas).
+
+Mensaje que se envía:
+
+"📢 ¡Meta alcanzada! La causa '[Título de la Causa]' ha reunido los apoyos necesarios para generar el Derecho de Petición. Próximo paso: Radicación ante la entidad correspondiente. Ver causa aquí: [Enlace]"
+
+Información que NO debe enviarse por seguridad:
+
+Datos personales de los firmantes (nombres completos, cédulas/documentos de identidad, correos electrónicos, teléfonos).
+
+Direcciones exactas de residencia de los ciudadanos.
+
+Comentarios privados o de carácter sensible.
