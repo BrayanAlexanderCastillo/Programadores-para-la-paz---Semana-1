@@ -1,0 +1,29 @@
+Modelo de Datos: Petición en 3 Clics
+1. Entidades y Atributos
+Causa
+
+id (Identificador único)
+
+titulo (Nombre de la petición)
+
+descripcion (Detalle de la problemática)
+
+fecha (Día de creación)
+
+Apoyo
+
+id (Identificador del respaldo)
+
+causa_id (Relación con la Causa apoyada)
+
+nombre (Nombre del ciudadano que firma)
+
+fecha (Día del apoyo)
+
+2. ¿Para qué sirve cada entidad?
+Causa: Almacena la información principal de cada solicitud de cambio o petición ciudadana creada en la plataforma.
+
+Apoyo: Registra y cuenta individualmente las firmas y respaldos que la comunidad otorga a cada causa.
+Causa: Almacena la información principal de cada solicitud de cambio o petición ciudadana creada en la plataforma.
+
+Apoyo: Registra y cuenta individualmente las firmas y respaldos que la comunidad otorga a cada causa.
