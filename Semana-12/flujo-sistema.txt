@@ -1,0 +1,5 @@
+Creación: Un ciudadano crea una causa en la plataforma completando un formulario básico.  
+Registro: La causa se guarda en la base de datos de forma pública para la comunidad. 
+Apoyo: Otros ciudadanos ingresan y respaldan la causa de manera virtual con un solo clic.  
+Conteo: El sistema realiza el conteo automático y en tiempo real de todos los apoyos recibidos.  
+Generación: El sistema genera un documento PDF formal con el "Derecho de Petición" y la lista consolidada de firmantes.  
